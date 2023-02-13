@@ -1,0 +1,6 @@
+# 忽略index.html
+/index.html
+
+# 忽略mycss.css
+mycss.css
+
